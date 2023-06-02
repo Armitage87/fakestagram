@@ -9,5 +9,9 @@ Done as an exercise project, full featured Instagram clone
 - Posting
 - Liking
 - Responsive web and mobile UI
+- Commenting
+- Following
+- Profile view
+
 
 
